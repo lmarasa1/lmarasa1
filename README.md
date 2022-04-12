@@ -1,6 +1,6 @@
-## Hi there 👋 I am [Man Parvesh](https://manparvesh.com)
+## Hi there 👋 I am [Luca Marasa](https://manparvesh.com)
 
-[![Linkedin Badge](https://img.shields.io/badge/-manparvesh-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luca-marasa-3a39b9146/)](https://www.linkedin.com/in/luca-marasa-3a39b9146/)
+[![Linkedin Badge](https://img.shields.io/badge/-lucamarasa-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/luca-marasa-3a39b9146/)](https://www.linkedin.com/in/luca-marasa-3a39b9146/)
 [![Github Badge](https://img.shields.io/badge/-lucamarasa-black?style=flat-square&logo=github&logoColor=white&link=https://github.com/lmarasa1)](https://github.com/lmarasa1)
 
 
